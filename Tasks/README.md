@@ -7,3 +7,5 @@
 # Task 4 : 19/7/2023
 - Graph Modules in python
 - Basic Containers in different languages
+# Task 5 : 23/7/2023
+- How to control priorities in PriorityQueue
