@@ -9,3 +9,9 @@
 - Basic Containers in different languages
 # Task 5 : 23/7/2023
 - How to control priorities in PriorityQueue
+# Task 6 : 26/7/2023
+- How to apply security in functional programming ?
+- Watch functional programming playlist in "درة الاكواد لأبن حماد"
+- How to apply Scalability in functional programming ?
+- Solid principles
+- What is code injection ?
