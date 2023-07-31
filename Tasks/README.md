@@ -15,3 +15,10 @@
 - How to apply Scalability in functional programming ?
 - Solid principles
 - What is code injection ?
+# Task 7 : 30/7/2023
+- DevOps Tools
+- Comparison between DevOps & Agile
+- OOP Project with class diagram --> ```Projects\OOP Project - Library Management System\library_management_system.ipynb```
+- DataOps & MLOps
+- V-Model
+- Design pattern & Architecture pattern Difference
