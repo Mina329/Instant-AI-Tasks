@@ -76,5 +76,9 @@ Key aspects of MLOps include:
 | Examples               | Singleton, Factory Method, Factory of Factories | MVVM, MVC |
 
 ## OOP Project with class diagram
-[OOP_Project](https://github.com/Mina329/Instant-AI-Tasks/tree/main/Projects/OOP%20Project%20-%20Library%20Management%20System)\
-![oop-project](https://github.com/Mina329/Instant-AI-Tasks/blob/main/Projects/OOP%20Project%20-%20Library%20Management%20System/library_management_system.png?raw=true)
+### Code
+[OOP_Project](https://github.com/Mina329/Instant-AI-Tasks/tree/main/Projects/OOP%20Project%20-%20Library%20Management%20System)
+### UseCase
+![oop-project](https://github.com/Mina329/Instant-AI-Tasks/blob/main/Projects/OOP%20Project%20-%20Library%20Management%20System/library_management_system_usecase.png?raw=true)
+### Class Diagram
+![oop-project](https://github.com/Mina329/Instant-AI-Tasks/blob/main/Projects/OOP%20Project%20-%20Library%20Management%20System/library_management_system_classdiagram.png?raw=true)
