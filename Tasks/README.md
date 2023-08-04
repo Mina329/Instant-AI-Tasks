@@ -22,3 +22,12 @@
 - DataOps & MLOps
 - V-Model
 - Design pattern & Architecture pattern Difference
+# Task 8 : 2/8/2023
+- Cases for specified architecture pattern
+- What is EERD ?
+- Watch EERD for 4 projects
+- NoSQL Databases Examples
+- What is power query ?
+- Compare between Azure, GCP and AWS
+- What is RTos ?
+- List of supporting languages to multi-threading
