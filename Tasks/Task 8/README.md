@@ -38,7 +38,7 @@ Features :
 Power Query is a data transformation and data preparation tool developed by Microsoft. It is part of the Microsoft Power Platform suite of business intelligence and data analytics tools, which also includes Power BI, Power Pivot, and Power Automate (previously known as Microsoft Flow).
 
 Power Query is designed to help users discover, connect, transform, and combine data from various sources into a format that is suitable for analysis and reporting. It is particularly useful when working with large and complex datasets that require cleaning, shaping, and merging from different sources.
-## Compare between Azure, GCP and AWS
+## Compare between Azure, GCP and AWS from Price plans perspective
 
 | Aspect                        | Azure                                       | GCP                                       | AWS                                          |
 |-------------------------------|---------------------------------------------|-------------------------------------------|----------------------------------------------|
@@ -55,3 +55,27 @@ Power Query is designed to help users discover, connect, transform, and combine 
 | Startups & Small Businesses   |                                             |                                           | ✓                                            |
 | IoT Applications              |                                             |                                           | ✓                                            |
 
+## What is RTos ?
+RTOS stands for "Real-Time Operating System." It is an operating system specifically designed to handle real-time applications and tasks, where the correctness of the system's response to events is crucial. Real-time systems have strict timing requirements, and an RTOS ensures that tasks are executed within their specified time constraints.
+## List of supporting languages to multi-threading
+1. **Java**: Java has built-in support for multi-threading through its `java.lang.Thread` class and the more advanced `java.util.concurrent` package.
+
+2. **C++**: C++ offers multi-threading capabilities through the `<thread>` and `<mutex>` libraries. The C++11 standard introduced the `<thread>` library, providing native support for creating and managing threads.
+
+3. **Python**: Python provides multi-threading support through the `threading` module, although true parallel execution is limited due to the Global Interpreter Lock (GIL).
+
+4. **C#**: C# has built-in support for multi-threading using the `System.Threading` namespace. It offers features like the `Thread` class and the Task Parallel Library (TPL).
+
+5. **Go**: Go (Golang) has built-in support for goroutines and channels, making it easy to create and manage concurrent tasks.
+
+6. **Ruby**: Ruby supports multi-threading through the `Thread` class, but the Global Interpreter Lock (GIL) can affect true parallel execution.
+
+7. **Rust**: Rust provides multi-threading capabilities through its `std::thread` module, with safety features to prevent data races.
+
+8. **Perl**: Perl offers multi-threading support using the `threads` module, although there are limitations and potential issues.
+
+9. **Scala**: Scala, running on the JVM, provides multi-threading support using Java's concurrency libraries and its own abstractions.
+
+10. **Haskell**: Haskell offers multi-threading capabilities through the `Control.Concurrent` module, providing abstractions for managing lightweight threads.
+
+11. **Erlang**: Erlang is designed for highly concurrent systems with its own lightweight process model for communication and data sharing.
