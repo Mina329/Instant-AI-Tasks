@@ -1,6 +1,6 @@
 # Session 9 : 6/8/2023
 ## Draw an EERD
-![EERD](https://github.com/Mina329/Instant-AI-Tasks/tree/main/Tasks/Task%209/Library_management_system_eerd.png)
+![EERD](https://github.com/Mina329/Instant-AI-Tasks/blob/main/Tasks/Task%209/Library_management_system_eerd.png?raw=true)
 ## Difference between power query and sql
 | Aspect          | Power Query                            | SQL (Structured Query Language)        |
 |-----------------|---------------------------------------|---------------------------------------|
