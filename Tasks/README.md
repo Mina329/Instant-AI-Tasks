@@ -28,6 +28,15 @@
 - Watch EERD for 4 projects
 - NoSQL Databases Examples
 - What is power query ?
-- Compare between Azure, GCP and AWS
+- Compare between Azure, GCP and AWS from price plans perspective
 - What is RTos ?
 - List of supporting languages to multi-threading
+# Task 9 : 6/8/2023
+- Difference between power query and sql
+- List of languages that turned from single threaded to multi threaded
+- How to make model train on new input data ?
+- Make task with cron job 
+- What is RPA robotic process automation ?
+- What are scraping tools in websites that dont allow scraping ?
+- Watch a video for software engineering pipeline including applying architecture pattern
+- Draw an EERD 
