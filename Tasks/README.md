@@ -40,3 +40,11 @@
 - What are scraping tools in websites that dont allow scraping ?
 - Watch a video for software engineering pipeline including applying architecture pattern
 - Draw an EERD 
+# Task 10 : 20/8/2023
+- System design principles
+- Is JavaScript MultiThreading ?
+- What is Incremental learning ?
+- python code: youtube link : download video -> resolution
+- python code: scrape image
+- python code: all your youtube subscriptions
+- use selenium to open github delay 3 seconds, then click sign in
