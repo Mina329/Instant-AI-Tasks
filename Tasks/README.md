@@ -48,3 +48,5 @@
 - python code: scrape image
 - python code: all your youtube subscriptions
 - use selenium to open github delay 3 seconds, then click sign in
+# Task 11 : 23/8/2023
+- Apply regular expression on text file
