@@ -50,3 +50,5 @@
 - use selenium to open github delay 3 seconds, then click sign in
 # Task 11 : 23/8/2023
 - Apply regular expression on text file
+# Task 12 : 27/8/2023
+- Compare between statistical algorithms and Non-statistical algorithms in AI
