@@ -52,3 +52,8 @@
 - Apply regular expression on text file
 # Task 12 : 27/8/2023
 - Compare between statistical algorithms and Non-statistical algorithms in AI
+# Task 13 : 30/8/2023
+- Sampling Techniques
+- Data Types
+- Types of data distributions
+- P-value
