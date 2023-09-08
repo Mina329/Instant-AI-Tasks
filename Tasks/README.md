@@ -57,3 +57,7 @@
 - Data Types
 - Types of data distributions
 - P-value
+# Task 14 : 6/9/2023
+- Confidence interval
+- Covarience
+- Statistical test types
