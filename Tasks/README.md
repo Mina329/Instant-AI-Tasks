@@ -61,3 +61,8 @@
 - Confidence interval
 - Covarience
 - Statistical test types
+# Task 15 : 10/9/2023
+- What is the difference between covarience and correlation?
+- Examples on statistical test types
+- Types of data distributions with its track
+- What is the difference between Naive bayes and conditional probability?
