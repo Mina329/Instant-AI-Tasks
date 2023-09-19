@@ -30,27 +30,27 @@
 
 ## How to save last 3 rows for 2 columns ?
 
-[Code](Save%20last%203%20rows%20for%202%20columns\save_last_3_rows_for_2_columns.ipynb)
+[Code](Save%20last%203%20rows%20for%202%20columns/save_last_3_rows_for_2_columns.ipynb)
 
-[Output csv](Save%20last%203%20rows%20for%202%20columns\new_last_3rows_2column.csv)
+[Output csv](Save%20last%203%20rows%20for%202%20columns/new_last_3rows_2column.csv)
 
 ## How to append to an existing csv file excel file same sheet ?
 
-[Code](Append%20csv%20file%20to%20excell\append_csv_to_excel.ipynb)
+[Code](Append%20csv%20file%20to%20excell/append_csv_to_excel.ipynb)
 
-[Output csv](Append%20csv%20file%20to%20excell\concat.csv)
+[Output csv](Append%20csv%20file%20to%20excell/concat.csv)
 
 ## How to replace data in specific columns with specific values ?
 
-[Code](Replace%20data%20in%20specific%20column%20with%20specific%20values\replace.ipynb)
+[Code](Replace%20data%20in%20specific%20column%20with%20specific%20values/replace.ipynb)
 
-[Output csv](Replace%20data%20in%20specific%20column%20with%20specific%20values\replace.csv)
+[Output csv](Replace%20data%20in%20specific%20column%20with%20specific%20values/replace.csv)
 
 ## How to detect and remove outliers using pandas ?
 
-[Code](Detecting%20and%20removing%20outliers\outliers.ipynb)
+[Code](Detecting%20and%20removing%20outliers/outliers.ipynb)
 
-[Output csv](Detecting%20and%20removing%20outliers\removed_outliers.csv)
+[Output csv](Detecting%20and%20removing%20outliers/removed_outliers.csv)
 
 ## lambda expression examples
 
@@ -58,4 +58,4 @@
 
 
 ## How to sort dataframe by index ? How to sort dataframe by specific column ?
-[Code](Sort%20dataframe%20by%20index%20and%20column\sort.ipynb)
+[Code](Sort%20dataframe%20by%20index%20and%20column/sort.ipynb)
