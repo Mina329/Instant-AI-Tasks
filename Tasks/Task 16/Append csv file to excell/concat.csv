@@ -1,0 +1,8 @@
+city,temprature,event,humidity
+cairo,30.0,sunny,8
+alex,25.0,rain,5
+luxor,35.0,sunny,10
+hurghada,29.0,sunny,4
+,,rain,5
+,,sunny,10
+,,sunny,4

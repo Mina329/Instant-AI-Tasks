@@ -1,4 +1,4 @@
-# Session 14 : 10/9/2023
+# Session 15 : 10/9/2023
 
 ## What is the difference between covarience and correlation?
 

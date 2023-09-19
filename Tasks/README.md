@@ -66,3 +66,13 @@
 - Examples on statistical test types
 - Types of data distributions with its track
 - What is the difference between Naive bayes and conditional probability?
+# Task 16 : 17/9/2023
+- How to choose your statistical test ?
+- What is the range of number for floats datatypes ? 
+- How to read all sheets in xlsx file ?
+- How to save last 3 rows for 2 columns ?
+- How to append to an existing csv file excel file same sheet ?
+- How to replace data in specific columns with specific values ?
+- How to detect and remove outliers using pandas ?
+- lambda expression examples
+- How to sort dataframe by index ? How to sort dataframe by specific column ?
