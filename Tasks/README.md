@@ -76,3 +76,7 @@
 - How to detect and remove outliers using pandas ?
 - lambda expression examples
 - How to sort dataframe by index ? How to sort dataframe by specific column ?
+# Task 17 : 20/9/2023
+- Usages of stack in pandas
+- How to read mongodb data (json) in pandas ?
+- Pandas Exercises --> `Projects\Pandas Exercises`
