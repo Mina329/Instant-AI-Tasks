@@ -80,3 +80,7 @@
 - Usages of stack in pandas
 - How to read mongodb data (json) in pandas ?
 - Pandas Exercises --> `Projects\Pandas Exercises`
+# Task 18 : 23/9/2023
+- How to do join (outer & inner) in pandas ?
+- Stored procedure sql
+- Achieve Gold sql badge on hacker rank
