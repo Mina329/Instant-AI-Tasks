@@ -84,3 +84,8 @@
 - How to do join (outer & inner) in pandas ?
 - Stored procedure sql
 - Achieve Gold sql badge on hacker rank
+# Task 19 : 27/9/2023
+- What is SQL trigger ?
+- Libraries for 3d modeling
+- Graphs that is supported by seaborn and not supported by matplotlib with examples
+- Make a Dashboard with smartvis
