@@ -1,4 +1,4 @@
-# Session 18 : 27/9/2023
+# Session 19 : 27/9/2023
 
 ## What is SQL trigger ?
 
