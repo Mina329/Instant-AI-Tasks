@@ -136,3 +136,10 @@
 # Task 21 : 15/10/2023
 
 - Website for Code refactoring from python to c++
+
+# Task 22 : 18/10/2023
+
+- What is Simple Imputer?
+- What is one hotencoder?
+- What is ordinal encoder?
+- What is label encoder?
