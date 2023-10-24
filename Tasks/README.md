@@ -143,3 +143,13 @@
 - What is one hotencoder?
 - What is ordinal encoder?
 - What is label encoder?
+
+# Task 23 : 22/10/2023
+
+- 5 Python libraries for computer vision
+- All image extensions OpenCV can read
+- What is Active contour module ?
+- What is Image dailation and eroding?
+- How to read video (image and sound) stored video or realtime?
+- types of filters and when to use each
+- Libraries that automate Image processing
