@@ -153,3 +153,9 @@
 - How to read video (image and sound) stored video or realtime?
 - types of filters and when to use each
 - Libraries that automate Image processing
+
+# Task 24 : 1/11/2023
+
+- 5 Examples of different cases of Seasonality of time series analysis
+- Machine learning models that is used in time series analysis
+- ACF vs PACF
