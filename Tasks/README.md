@@ -159,3 +159,11 @@
 - 5 Examples of different cases of Seasonality of time series analysis
 - Machine learning models that is used in time series analysis
 - ACF vs PACF
+
+# Task 25 : 8/11/2023
+
+- What is Semi-Supervised learning ?
+- What is Neuro Evolution ?
+- What is Regression Cluster ?
+- Types of models (Statistical models vs Non-statistical models)
+- What is Multi-Label Classification ?
