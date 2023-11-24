@@ -167,3 +167,8 @@
 - What is Regression Cluster ?
 - Types of models (Statistical models vs Non-statistical models)
 - What is Multi-Label Classification ?
+
+# Task 26 : 22/11/2023
+
+- What is Regularization ?
+- What is Overfitting ?
